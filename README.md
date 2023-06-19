@@ -6,7 +6,7 @@ Welcome to the Awesome Project! This project is all about pushing the boundaries
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Installation](#git clone https://github.com/AhamedAlif/sqlsupercommand)
+- [Installation]( git clone https://github.com/AhamedAlif/sqlsupercommand)
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
